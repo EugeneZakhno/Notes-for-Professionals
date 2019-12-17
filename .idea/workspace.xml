@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="760582ae-4486-42fd-b8cc-dc083a09ffe8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../NotesForProfessionals/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotesForProfessionals/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotesForProfessionals/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotesForProfessionals/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotesForProfessionals/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotesForProfessionals/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotesForProfessionals/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotesForProfessionals/src/main/java/io/github/eugenezakhno/com/test/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotesForProfessionals/src/main/java/io/github/eugenezakhno/com/test/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotesForProfessionals/src/main/resources/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NotesForProfessionals/src/test/java/io/github/eugenezakhno/funnybunny/FunnybunnyApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eugenezakhno/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eugenezakhno/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -103,8 +93,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="111" />
-    <option name="y" value="73" />
+    <option name="x" value="78" />
+    <option name="y" value="17" />
     <option name="width" value="1721" />
     <option name="height" value="1040" />
   </component>
@@ -151,6 +141,13 @@
               <item name="notes_for_profrssionals" type="b2602c69:ProjectViewProjectNode" />
               <item name="notes_for_profrssionals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="notes_for_profrssionals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="notes_for_profrssionals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -164,9 +161,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576534275649" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576534295510" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\EugeneZakhno\IdeaProjects\notes_for_profrssionals\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -210,25 +212,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576523972783</updated>
-      <workItem from="1576523983241" duration="2845000" />
+      <workItem from="1576523983241" duration="2956000" />
     </task>
+    <task id="LOCAL-00001" summary="commit from IDE">
+      <created>1576534320711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576534320711</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2845000" />
+    <option name="totallyTimeSpent" value="2956000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="78" y="17" width="1721" height="1040" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11140725" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12582782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32359308" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32929516" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32929516" />
@@ -255,6 +265,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit from IDE" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit from IDE" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
