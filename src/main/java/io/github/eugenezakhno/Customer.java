@@ -6,7 +6,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class Customer {
     public static void main(String[] args) {
         ApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
-        Employee obj = (Employee) context.getBean("emoy8");
+        Employee obj = (Employee) context.getBean("em78oy8");
         obj.displayName();
     }
 }
