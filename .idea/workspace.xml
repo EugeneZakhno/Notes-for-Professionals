@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="760582ae-4486-42fd-b8cc-dc083a09ffe8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/eugenezakhno/Beginner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/eugenezakhno/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/eugenezakhno/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/eugenezakhno/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/eugenezakhno/Beginner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,8 @@
       <option name="presentableId" value="Default" />
       <updated>1576523972783</updated>
       <workItem from="1576523983241" duration="2956000" />
-      <workItem from="1576868240387" duration="283000" />
+      <workItem from="1576868240387" duration="985000" />
+      <workItem from="1576961733839" duration="201000" />
     </task>
     <task id="LOCAL-00001" summary="commit from IDE">
       <created>1576534320711</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576868387643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit from new Intellij IDE">
+      <created>1576868542078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576868542078</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,17 +132,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="686" y="189" key="#Customer/0.0.1920.1040@0.0.1920.1040" timestamp="1576868337752" />
-    <state x="547" y="116" key="CommitChangelistDialog2" timestamp="1576868384744">
+    <state x="765" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1576961928504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="547" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576868384744" />
+    <state x="765" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576961928504" />
+    <state x="547" y="116" key="CommitChangelistDialog2" timestamp="1576868539453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="547" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576868539453" />
     <state x="463" y="166" key="SettingsEditor" timestamp="1576868254184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576868254184" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1576868404721">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1576868545703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576868404721" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576868545703" />
+    <state x="667" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1576961882201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576961882201" />
   </component>
 </project>
