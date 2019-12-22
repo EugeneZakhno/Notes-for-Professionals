@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="760582ae-4486-42fd-b8cc-dc083a09ffe8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/eugenezakhno/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/eugenezakhno/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/github/eugenezakhno/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/github/eugenezakhno/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,7 @@
       <workItem from="1576868240387" duration="985000" />
       <workItem from="1576961733839" duration="971000" />
       <workItem from="1577015855338" duration="879000" />
-      <workItem from="1577037172641" duration="182000" />
+      <workItem from="1577037172641" duration="3243000" />
     </task>
     <task id="LOCAL-00001" summary="commit from IDE">
       <created>1576534320711</created>
@@ -133,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576963251208</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="turned back again">
+      <created>1577037450044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577037450044</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +149,8 @@
     <MESSAGE value="commit from IDE" />
     <MESSAGE value="commit from new Intellij IDE" />
     <MESSAGE value="commit added" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit added" />
+    <MESSAGE value="turned back again" />
+    <option name="LAST_COMMIT_MESSAGE" value="turned back again" />
   </component>
   <component name="WindowStateProjectService">
     <state x="686" y="189" key="#Customer" timestamp="1577037390322">
@@ -154,10 +161,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576961928504" />
-    <state x="547" y="116" key="CommitChangelistDialog2" timestamp="1576963249595">
+    <state x="547" y="116" key="CommitChangelistDialog2" timestamp="1577037447680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="547" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576963249595" />
+    <state x="547" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577037447680" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1577037428328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -178,14 +185,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576868254184" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1576963253566">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1577037575870">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576963253566" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577037575870" />
     <state x="667" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1577037238565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577037238565" />
+    <state x="342" y="225" key="new project wizard" timestamp="1577039345131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="225" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577039345131" />
     <state x="640" y="213" key="spring file set editor" timestamp="1577037424082">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
