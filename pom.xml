@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Section1_2</module>
+        <module>Section1_1</module>
     </modules>
     <dependencies>
     <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->

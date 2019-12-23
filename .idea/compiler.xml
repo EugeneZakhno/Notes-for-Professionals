@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="notes_for_profrssionals" />
         <module name="Section1_2" />
+        <module name="Section1_1" />
       </profile>
     </annotationProcessing>
   </component>
