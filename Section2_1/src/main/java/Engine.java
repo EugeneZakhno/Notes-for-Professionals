@@ -1,5 +1,5 @@
-class Engine {
-    public void start() {
+public  class Engine {
+    public static void start() {
         System.out.println("Engine started");
     }
 }
