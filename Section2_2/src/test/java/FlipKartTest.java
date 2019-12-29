@@ -7,7 +7,7 @@ public class FlipKartTest {
         Courier courier=(Courier)ObjectFactory.getInstance("Dtdc.class");
         FlipKart flipkart=(FlipKart)ObjectFactory.getInstance("FlipKart.class");
         flipkart.setCourier(courier);
-        flipkart.shopping("Hp Laptop", "SR Nagar,Hyderabad");
+        flipkart.shopping("Hp Laptop", "SR, Hyderabad");
 
     }
 }
